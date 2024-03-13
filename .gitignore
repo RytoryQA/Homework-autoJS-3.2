@@ -1,0 +1,23 @@
+/node_modules/
+/playwright-report/
+/test-results/
+user.js
+/test/data
+# .vscode/*
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
+# *.code-workspace
+
+# # Local History for Visual Studio Code
+# .history/
+# /user.js
+# /test-results/
+# /playwright-report/
+# /blob-report/
+# /playwright/.cache/
+# /test-results/
+# /playwright-report/
+# /blob-report/
+# /playwright/.cache/
